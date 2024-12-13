@@ -20,4 +20,4 @@ Here is a video demonstration of the metasensor-robot system in the case of a se
 
 Here is the video of the best robot found by the genetic algorithm.
 
-- [GA designed (Robot + Metasensor)](videos/video2.mp4)
+- [GA designed (Robot + Metasensor)](videos/ga-optmised-metasensor.mp4)
