@@ -31,4 +31,4 @@ To launch the genetic algorithm run the following command:
 ```python
 python3 ga.py [SEED] [NUM_GENERATIONS] [POPULATION_SIZE] [SIMULATION_STEPS]
 ```
-After that, the best solution found with the genetic algorithm can be tested by setting its unique number in the netlogo application "metasensor.nlogo", via its GUI.
+After that, the best solution found with the genetic algorithm can be tested by setting its unique number in the NetLogo application "metasensor.nlogo", via its GUI.
