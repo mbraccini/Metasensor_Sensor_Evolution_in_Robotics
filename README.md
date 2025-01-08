@@ -25,10 +25,17 @@ Here is the video of the best robot found by the genetic algorithm.
 
 ## Instructions for replicating experiments
 
-Install NetLogo from: [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)
 
 To launch the genetic algorithm run the following command:
 ```python
 python3 ga.py [SEED] [NUM_GENERATIONS] [POPULATION_SIZE] [SIMULATION_STEPS]
 ```
+To run this Python script, ensure the following libraries are installed:
+- DEAP;
+- pandas;
+- numpy;
+- matplotlib.
+
+Install NetLogo from: [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)
+
 After that, the best solution found with the genetic algorithm can be tested by setting its unique number in the NetLogo application "metasensor.nlogo", via its GUI.
